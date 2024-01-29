@@ -40,7 +40,7 @@ function LoginPage() {
     const data = await res.json();
     if (res.ok) {
         window.alert("Registration Successful");
-        navigate("/LogIn");
+        navigate("/login");
       } else {
         console.error("Registration Failed:", data.message || "Unknown Error");
       }
