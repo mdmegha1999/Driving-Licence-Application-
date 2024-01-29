@@ -1,0 +1,32 @@
+.profile-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .welcome-message {
+    color: #007bff;
+  }
+  
+  .user-info {
+    margin-bottom: 10px;
+  }
+  
+  .logout-button {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .profile-form {
+    margin-top: 10px;
+  }
+  
+  .exam-button {
+    margin-top: 20px;
+  }
+  
